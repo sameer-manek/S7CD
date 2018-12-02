@@ -1,4 +1,4 @@
-# Compiler Design practicals
+# Compiler Design practicals ( GTU 7th sem )
 
 this is my personal repository where in I manage code for CD labs
 
